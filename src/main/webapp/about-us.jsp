@@ -7,6 +7,6 @@
 <title>About Us</title>
 </head>
 <body>
-
+	<h3>About us</h3>
 </body>
 </html>

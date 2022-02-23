@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h3>About us</h3>
+	<p>
+		Member social tracker web-App
+	</p>
 </body>
 </html>

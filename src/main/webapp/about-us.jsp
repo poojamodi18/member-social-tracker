@@ -10,6 +10,8 @@
 	<h3>About us</h3>
 	<p>
 		Member social tracker web-App
+		new line test
+		<br>
 	</p>
 </body>
 </html>
